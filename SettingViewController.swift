@@ -11,6 +11,7 @@ import Reachability
 import CocoaLumberjack
 
 class SettingViewController: StackSubViewController {
+    // dev edit //16:09
     
 //    private let loadingView = LoadingView()
 //    private let tableView = UITableView(frame: CGRect.zero, style: .Grouped)
