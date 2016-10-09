@@ -12,9 +12,9 @@ import CocoaLumberjack
 
 class SettingViewController: StackSubViewController {
     
-    private let loadingView = LoadingView()
-    private let tableView = UITableView(frame: CGRect.zero, style: .Grouped)
-    private var sections: [[[String: AnyObject]]]!
+//    private let loadingView = LoadingView()
+//    private let tableView = UITableView(frame: CGRect.zero, style: .Grouped)
+//    private var sections: [[[String: AnyObject]]]!
     
     private var rcOperationMode = RCOperationMode.USA {
         didSet {
